@@ -19,7 +19,9 @@ redirect_from:
 
 Wanmeng Li is currently a second-year Ph.D. student at the [Intelligent Autonomous Systems Laboratory (IAS-Lab)](https://robotics.dei.unipd.it/) at the [University of Padua](https://www.unipd.it/), under the supervision of [Prof. Alberto Pretto](https://albertopretto.altervista.org/) and [Prof. Emanuele Menegatti](https://www.dei.unipd.it/~emg/).
 
-He received his Master’s degree from the [City University of Hong Kong](https://www.cityu.edu.hk/) and his Bachelor’s degree from [Hebei University of Technology](https://eweb.hebut.edu.cn/).
+His research interests include data-efficient 3D LiDAR point cloud perception, transfer learning, unsupervised/semi-supervised learning, and image enhancement.
+
+He received his Master’s degree from the [City University of Hong Kong](https://www.cityu.edu.hk/) and his Bachelor’s degree from [Hebei University of Technology](https://eweb.hebut.edu.cn/)
 
 
 # 🔥 News
@@ -27,19 +29,22 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS 2025</div>
+      <img src='images/IROS_2025.png' alt="DPGLA" width="100%">
+    </div>
+  </div>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  <div class='paper-box-text' markdown="1">
+  DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation  
+  **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  [**Code**](https://github.com/lichonger2/DPGLA) <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
