@@ -111,7 +111,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-text' markdown="1">
   **A Sonar-based AUV Positioning System for Underwater Environments with Low Infrastructure Density**  
   Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Simone Mosco, Alberto Pretto  
-  *Workshop on Field Robotics – The 2024 IEEE International Conference on Robotics and Automation (ICRA)*  
+  *IEEE International Conference on Robotics and Automation (ICRA) Workshop, 2024*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
@@ -128,7 +128,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [<u>[Code]</u>]
     (https://github.com/ivano-donadi/sdpr)
   Ivano Donadi, Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Daniele Evangelista, Alberto Pretto  
-  *The 2023 International Conference on Computer Vision Systems (ICVS)*  
+  *International Conference on Computer Vision Systems (ICVS), 2023*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
