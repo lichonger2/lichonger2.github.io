@@ -86,7 +86,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">CIS-RAM 2024</div>
-      <img src='images/CIS-RAM.png' alt="UnderwaterPlaceRecognition" width="90%">
+      <img src='images/CIS_RAM.png' alt="UnderwaterPlaceRecognition" width="90%">
     </div>
   </div>
 
