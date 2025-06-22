@@ -33,7 +33,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS 2025</div>
-      <img src='images/IROS_2025.png' alt="DPGLA" width="100%">
+      <img src='images/DPGLA.png' alt="DPGLA" width="100%">
     </div>
   </div>
 
