@@ -45,16 +45,16 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* Graduated with Distinction from the City University of Hong Kong.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10 – now*, Ph.D. student in Information Engineering, University of Padua, Italy  
+- *2019.09 – 2020.12*, M.Sc. in Multimedia Information Technology, City University of Hong Kong, Hong Kong, China  
+- *2015.09 – 2019.06*, B.Eng. in Communication Engineering, Hebei University of Technology, Tianjin, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Working Experience
+- *2023.03 – 2023.09*, Research Fellow, University of Padua, Italy  
+- *2022.02 – 2023.02*, Research Assistant, City University of Hong Kong, Hong Kong, China  
+- *2020.12 – 2022.01*, Product Manager, Hangzhou Hikvision Digital Technology Co., Ltd., Hangzhou, China
+- *2019.10 – 2019.12*, Video Development Engineer Intern, ZTE Corporation, Shenzhen, China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
