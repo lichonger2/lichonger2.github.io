@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wanmeng Li's Homepage"
 description              : "Ph.D. student at IAS-Lab (Intelligent Autonomous Systems Laboratory), Department of Information Engineering"
-repository               : "lichonger2"
+repository               : "https://github.com/lichonger2"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lichonger2"
+  github           : "lichonger2"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://hk.linkedin.com/in/wanmeng-li-53a1b61a5"
+  linkedin         : "in/wanmeng-li-53a1b61a5"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
