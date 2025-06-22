@@ -144,15 +144,10 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-text' markdown="1">
   **Unsupervised Low-Light Image Enhancement Based on Deep Lightness and Grey Pixel Estimation**  
   Houwang Zhang, **Wanmeng Li**, Leanne Lai-Hang Chan  
-  *The 2023 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR)*  
+  *International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR), 2023*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
-
-
-
-
-
 
 
 
