@@ -40,6 +40,24 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-text' markdown="1">
   **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/DPGLA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
+  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECMR 2025</div>
+      <img src='images/Consamp.png' alt="ConSamp" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/ConSamp)  
+  **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
+  *European Conference on Mobile Robots (ECMR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
