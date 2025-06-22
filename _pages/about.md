@@ -56,7 +56,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **ConUDA: Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>】(https://github.com/lichonger2/ConUDA)  
+  **ConUDA: Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/ConUDA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
   *European Conference on Mobile Robots (ECMR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
