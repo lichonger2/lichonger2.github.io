@@ -1,21 +1,43 @@
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
+
+#   - title: "News"
+#     url: "/#-news"
+
+#   - title: "Publications"
+#     url: "/#-publications"
+
+#   - title: "Honors and Awards"
+#     url: "/#-honors-and-awards"
+
+#   - title: "Education Experience"
+#     url: "/#-educations"
+
+#   - title: "Working Experience"
+#     url: "/#-working-experience"
+
+#   - title: "Internships"
+#     url: "/#-internships"
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "#honors-and-awards"
 
   - title: "Education Experience"
-    url: "/#-educations"
+    url: "#educations"
 
   - title: "Working Experience"
-    url: "/#-working-experience"
+    url: "#working-experience"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "#internships"
+
