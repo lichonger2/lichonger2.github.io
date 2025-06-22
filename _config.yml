@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wanmeng Li's Homepage"
-description              : "Ph.D. student in Information Engineering at the University of Padua, IAS-Lab (Intelligent Autonomous Systems Laboratory)"
+description              : "Ph.D. student at IAS-Lab (Intelligent Autonomous Systems Laboratory), Department of Information Engineering"
 repository               : "https://github.com/lichonger2"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wanmeng Li"
   avatar           : "images/profile.png"
-  bio              : "Ph.D. student at University of Padua"
+  bio              : "University of Padua"
   location         : "Padua, Italy"
   employer         :
   pubmed           : 
