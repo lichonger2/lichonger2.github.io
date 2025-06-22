@@ -74,12 +74,13 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors**
+  **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors**  
   Daniel Fusaro, Simone Mosco, **Wanmeng Li**, Alberto Pretto  
   *IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
+
 
 
 <div class='paper-box'>
@@ -91,12 +92,51 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems** [<u>[Code]</u>](https://github.com/lichonger2/P-SVM2_TraversabilityAnalysis)
+  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems** [<u>[Code]</u>](https://github.com/lichonger2/P-SVM2_TraversabilityAnalysis)  
   **Wanmeng Li**, Daniel Fusaro, Emilio Olivastri, Alberto Pretto  
   *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2024</div>
+      <img src='images/ICRA2024.png' alt="SonarAUVPositioning" width="90%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **A Sonar-based AUV Positioning System for Underwater Environments with Low Infrastructure Density**  
+  Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Simone Mosco, Alberto Pretto  
+  *Workshop on Field Robotics – The 2024 IEEE International Conference on Robotics and Automation (ICRA)*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICVS 2023</div>
+      <img src='images/ICVS2023.png' alt="SonarDescriptorGeneralization" width="90%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [<u>[Code]</u>]
+    (https://github.com/ivano-donadi/sdpr)
+  Ivano Donadi, Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Daniele Evangelista, Alberto Pretto  
+  *The 2023 International Conference on Computer Vision Systems (ICVS)*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+
+
+
+
 
 
 
