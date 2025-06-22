@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Wanmeng Li"
   avatar           : "images/profile.png"
-  bio              : "Lorem ipsum College"
-  location         : "Pauda, Italy"
+  bio              : "Ph.D. student at University of Padua"
+  location         : "Padua, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jCQA7lIAAAAJ&hl=zh-CN"
