@@ -33,7 +33,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS 2025</div>
-      <img src='images/DPGLA.png' alt="DPGLA" width="80%">
+      <img src='images/DPGLA.png' alt="DPGLA" width="90%">
     </div>
   </div>
 
@@ -51,7 +51,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ECMR 2025</div>
-      <img src='images/ECMR.png' alt="ConSamp" width="80%">
+      <img src='images/ECMR.png' alt="ConSamp" width="90%">
     </div>
   </div>
 
@@ -69,7 +69,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">SIMPAR 2025</div>
-      <img src='images/simpar.png' alt="UnderwaterPlaceRecognition" width="80%">
+      <img src='images/simpar.png' alt="UnderwaterPlaceRecognition" width="90%">
     </div>
   </div>
 
@@ -77,6 +77,23 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors**
   Daniel Fusaro, Simone Mosco, **Wanmeng Li**, Alberto Pretto  
   *IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2025*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CIS-RAM 2024</div>
+      <img src='images/CIS-RAM.png' alt="UnderwaterPlaceRecognition" width="90%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems**
+  **Wanmeng Li**, Daniel Fusaro, Emilio Olivastri, Alberto Pretto  
+  *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
