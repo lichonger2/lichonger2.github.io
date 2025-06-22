@@ -38,12 +38,11 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [**Code**](https://github.com/lichonger2/DPGLA)  
+  **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/DPGLA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
