@@ -46,6 +46,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 </div>
 
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -62,6 +63,26 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SIMPAR 2025</div>
+      <img src='images/simpar.png' alt="UnderwaterPlaceRecognition" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors** [<u>[Code]</u>](https://github.com/lichonger2/SonarPlaceRecognition)  
+  Daniel Fusaro, Simone Mosco, **Wanmeng Li**, Alberto Pretto  
+  *IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2025*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2020.12* Graduated with Distinction from the City University of Hong Kong.
