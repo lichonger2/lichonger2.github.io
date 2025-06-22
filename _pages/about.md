@@ -136,7 +136,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICWAPR 2023</div>
-      <img src='images/ICWAPR2023.png' alt="LowLightEnhancement" width="90%">
+      <img src='images/ICWAPR.png' alt="LowLightEnhancement" width="90%">
     </div>
   </div>
 
