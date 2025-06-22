@@ -125,13 +125,13 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [<u>[Code]</u>]
-    (https://github.com/ivano-donadi/sdpr)
+  **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [<u>Code</u>](https://github.com/ivano-donadi/sdpr)  
   Ivano Donadi, Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Daniele Evangelista, Alberto Pretto  
   *International Conference on Computer Vision Systems (ICVS), 2023*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
   </div>
 </div>
+
 
 
 
