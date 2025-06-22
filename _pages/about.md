@@ -91,7 +91,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems**
+  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems** [<u>[Code]</u>](https://github.com/lichonger2/P-SVM2_TraversabilityAnalysis)
   **Wanmeng Li**, Daniel Fusaro, Emilio Olivastri, Alberto Pretto  
   *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
