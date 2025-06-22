@@ -29,8 +29,8 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
+<div class='paper-box' style="display: flex; align-items: center;">
+  <div class='paper-box-image' style="max-width: 280px; margin-right: 20px;">
     <div>
       <div class="badge">IROS 2025</div>
       <img src='images/DPGLA.png' alt="DPGLA" width="80%">
@@ -47,8 +47,8 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
+<div class='paper-box' style="display: flex; align-items: center;">
+  <div class='paper-box-image' style="max-width: 280px; margin-right: 20px;">
     <div>
       <div class="badge">ECMR 2025</div>
       <img src='images/ECMR.png' alt="ConSamp" width="80%">
