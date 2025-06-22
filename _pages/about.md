@@ -57,7 +57,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
   <div class='paper-box-text' markdown="1">
   **Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>]
-    (https://github.com/lichonger2/ConUDA)  
+(https://github.com/lichonger2/ConUDA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
   *European Conference on Mobile Robots (ECMR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
@@ -75,7 +75,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors** [<u>[Code]</u>](https://github.com/lichonger2/SonarPlaceRecognition)  
+  **Real-time Underwater Place Recognition in Synthetic and Real Environments using Multibeam Sonar and Learning-based Descriptors**
   Daniel Fusaro, Simone Mosco, **Wanmeng Li**, Alberto Pretto  
   *IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
