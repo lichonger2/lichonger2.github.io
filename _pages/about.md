@@ -38,7 +38,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/DPGLA)  
+  **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [[Code]](https://github.com/lichonger2/DPGLA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
   *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
@@ -56,7 +56,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **ConUDA: Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [<u>[Code]</u>](https://github.com/lichonger2/ConUDA)  
+  **ConUDA: Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation** [[Code]](https://github.com/lichonger2/ConUDA)  
   **Wanmeng Li**, Simone Mosco, Daniel Fusaro, Alberto Pretto  
   *European Conference on Mobile Robots (ECMR), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
@@ -92,7 +92,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems** [<u>[Code]</u>](https://github.com/lichonger2/P-SVM2_TraversabilityAnalysis)  
+  **P-SVM2: Enhancing LiDAR-based Traversability Analysis with Augmented Point Cloud Descriptor for Autonomous Mobile Systems** [[Code]](https://github.com/lichonger2/P-SVM2_TraversabilityAnalysis)  
   **Wanmeng Li**, Daniel Fusaro, Emilio Olivastri, Alberto Pretto  
   *IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), 2025*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
@@ -125,7 +125,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
   </div>
 
   <div class='paper-box-text' markdown="1">
-  **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [<u>Code</u>](https://github.com/ivano-donadi/sdpr)  
+  **Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition** [[Code]](https://github.com/ivano-donadi/sdpr)  
   Ivano Donadi, Emilio Olivastri, Daniel Fusaro, **Wanmeng Li**, Daniele Evangelista, Alberto Pretto  
   *International Conference on Computer Vision Systems (ICVS), 2023*  
   <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
