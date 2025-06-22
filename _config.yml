@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wanmeng Li's Homepage"
 description              : "Ph.D. student at IAS-Lab (Intelligent Autonomous Systems Laboratory), Department of Information Engineering"
-repository               : "https://github.com/lichonger2"
+repository               : "lichonger2"
 google_scholar_stats_use_cdn : true
 
 # google analytics
