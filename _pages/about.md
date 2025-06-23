@@ -152,6 +152,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 
 # 🎖 Honors and Awards
+- A nice person
 - *2020.12* Graduated with Distinction from the City University of Hong Kong.
 
 # 📖 Educations
