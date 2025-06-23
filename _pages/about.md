@@ -166,3 +166,5 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 - *2020.12 – 2022.01*, Product Manager, Hangzhou Hikvision Digital Technology Co., Ltd., Hangzhou, China
 - *2019.10 – 2019.12*, Video Development Engineer Intern, ZTE Corporation, Shenzhen, China
 
+# 🚫 Failure Experience
+
