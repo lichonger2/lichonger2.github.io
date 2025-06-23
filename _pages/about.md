@@ -152,8 +152,8 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 
 # 🎖 Honors and Awards
-- A nice person
 - *2020.12* Graduated with Distinction from the City University of Hong Kong.
+- *Always* A nice person.
 
 # 📖 Educations
 - *2023.10 – now*, Ph.D. student in Information Engineering, University of Padua, Italy  
