@@ -168,6 +168,8 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 - *2019.10 – 2019.12*, Video Development Engineer Intern, ZTE Corporation, Shenzhen, China
 
 # 🚫 Failure Experience
+- *2023*: One paper was rejected by the AAAI conference
+- *2020*: Applied to over 30 companies before receiving an offer that met my expectations
 - *2019*: Took the National Postgraduate Entrance Examination; did not get admitted to the first-choice university  
 - *2016-2017*: Passed the CET-6 (College English Test – Band 6) on the third attempt during undergraduate studies  
 - *2016-2017*: Passed the National Computer Rank Examination (NCRE) on the third attempt during undergraduate studies
