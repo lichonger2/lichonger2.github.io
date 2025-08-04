@@ -25,7 +25,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 
 # 🔥 News
-- [06/2025] - ConUDA was accepted and selected for the Finalists for Best Paper [ECMR 2025](https://ecmr2025.dei.unipd.it/).
+- [06/2025] - ConUDA was accepted at [ECMR 2025](https://ecmr2025.dei.unipd.it/).
 - [06/2025] - DPGLA was selected for oral presentation at [IROS 2025](https://www.iros25.org/).
 
 # 📝 Publications 
