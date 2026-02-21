@@ -25,7 +25,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 
 # 🔥 News
-- [02/2026] - One paper was accepted for publication in [EAAI]([https://ecmr2025.dei.unipd.it](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/)
+- [02/2026] - One paper was accepted for publication in [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 - [06/2025] - ConUDA was accepted and selected as a Best Paper Finalist at [ECMR 2025](https://ecmr2025.dei.unipd.it/).
 - [06/2025] - DPGLA was selected for oral presentation at [IROS 2025](https://www.iros25.org/).
 
