@@ -176,6 +176,7 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 - *Always* A nice person.
 
 # 📖 Educations
+- *2025.11 – now*, Visiting Ph.D. Student at the Chair of Robotics, Artificial Intelligence and Real-Time Systems, TUM School of Computation, Information and Technology, Technical University of Munich, Germany
 - *2023.10 – now*, Ph.D. student in Information Engineering, University of Padua, Italy  
 - *2019.09 – 2020.12*, M.Sc. in Multimedia Information Technology, City University of Hong Kong, Hong Kong, China  
 - *2015.09 – 2019.06*, B.Eng. in Communication Engineering, Hebei University of Technology, Tianjin, China
