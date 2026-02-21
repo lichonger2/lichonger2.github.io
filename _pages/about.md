@@ -31,6 +31,24 @@ He received his Master’s degree from the [City University of Hong Kong](https:
 
 # 📝 Publications 
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EAAI</div>
+      <img src='images/EAAI.png' alt="EAAI" width="90%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  **Biologically-inspired two-pathway transformer network for image dehazing**
+  Houwang Zhang, **Wanmeng Li**, Leanne Lai-Hang Chan  
+  *Engineering Applications of Artificial Intelligence*  
+  <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_ID_HERE'></span></strong>
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
